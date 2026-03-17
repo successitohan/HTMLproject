@@ -1,0 +1,43 @@
+body{
+    background-color: aliceblue;
+}
+title{
+    background-color: black;
+    color:pink;
+}
+#prime{
+    background-color: pink;
+    color:black;
+}
+#even{
+    background-color: aliceblue;
+    color:black;
+}
+#odd{
+    background-color: darkmagenta;
+    color:black;
+}
+table{
+    width:60%;
+    margin: auto;
+    border-collapse: collapse;
+
+
+}
+h2{
+    text-align: center;
+    color: darkblue;
+}
+td{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+th{
+    background-color: darkmagenta;
+    color: white;
+    padding: px;
+}
+tr :nth-child(even){
+    background-color:bisque;
+}

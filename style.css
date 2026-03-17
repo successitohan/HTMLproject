@@ -1,0 +1,27 @@
+body{
+    background-color:black
+}
+title{
+    color:white;
+}
+h2{
+    color:pink;
+}
+#p1{
+
+   background-color:pink;
+   color:black; 
+}
+#p2{
+    background-color:aliceblue;
+    color:black;
+}
+#p3{
+    
+    background-color:blue;
+    color:black;
+}
+#p4{
+    background-color:darkviolet;
+    color:black;
+}
